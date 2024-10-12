@@ -1,0 +1,8 @@
+
+train: baseline_dataset/train/images 
+val: baseline_dataset/valid/images
+test: baseline_dataset/test/images
+
+names:
+    0: plane
+    1: heliconpter
